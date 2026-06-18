@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Art Portfolio</title>
     <style>
-        /* Base Styles - No tracking, totally private */
         body {
             margin: 0;
             padding: 0;
@@ -39,7 +38,6 @@
             padding: 2rem;
         }
 
-        /* Gallery Grid Setup */
         .gallery {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -99,7 +97,6 @@
 
     <main>
         <section class="gallery">
-            <!-- Art Piece 1 -->
             <div class="art-item">
                 <img src="art1.jpg.jpg" alt="Artwork 1">
                 <div class="art-info">
@@ -108,7 +105,6 @@
                 </div>
             </div>
 
-            <!-- Art Piece 2 -->
             <div class="art-item">
                 <img src="art2.jpg.jpg" alt="Artwork 2">
                 <div class="art-info">
@@ -117,7 +113,6 @@
                 </div>
             </div>
 
-            <!-- Art Piece 3 -->
             <div class="art-item">
                 <img src="art3.jpg.jpg" alt="Artwork 3">
                 <div class="art-info">
@@ -126,7 +121,6 @@
                 </div>
             </div>
 
-            <!-- Art Piece 4 -->
             <div class="art-item">
                 <img src="art4.jpg.jpg" alt="Artwork 4">
                 <div class="art-info">
@@ -135,7 +129,6 @@
                 </div>
             </div>
 
-            <!-- Art Piece 5 -->
             <div class="art-item">
                 <img src="art5.jpg.jpg" alt="Artwork 5">
                 <div class="art-info">
@@ -144,7 +137,6 @@
                 </div>
             </div>
 
-            <!-- Art Piece 6 -->
             <div class="art-item">
                 <img src="art6.jpg.jpg" alt="Artwork 6">
                 <div class="art-info">
