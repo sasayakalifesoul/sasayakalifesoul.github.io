@@ -98,7 +98,7 @@
     <main>
         <section class="gallery">
             <div class="art-item">
-                <img src="art1.jpg.jpg" alt="Artwork 1">
+                <img src="art 1.jpg.jpg" alt="Artwork 1">
                 <div class="art-info">
                     <h3>Artwork Title One</h3>
                     <p>Medium / Year</p>
@@ -106,7 +106,7 @@
             </div>
 
             <div class="art-item">
-                <img src="art2.jpg.jpg" alt="Artwork 2">
+                <img src="art 2.jpg.jpg" alt="Artwork 2">
                 <div class="art-info">
                     <h3>Artwork Title Two</h3>
                     <p>Medium / Year</p>
@@ -114,7 +114,7 @@
             </div>
 
             <div class="art-item">
-                <img src="art3.jpg.jpg" alt="Artwork 3">
+                <img src="art 3.jpg.jpg" alt="Artwork 3">
                 <div class="art-info">
                     <h3>Artwork Title Three</h3>
                     <p>Medium / Year</p>
@@ -122,7 +122,7 @@
             </div>
 
             <div class="art-item">
-                <img src="art4.jpg.jpg" alt="Artwork 4">
+                <img src="art 4.jpg.jpg" alt="Artwork 4">
                 <div class="art-info">
                     <h3>Artwork Title Four</h3>
                     <p>Medium / Year</p>
@@ -130,7 +130,7 @@
             </div>
 
             <div class="art-item">
-                <img src="art5.jpg.jpg" alt="Artwork 5">
+                <img src="art 5.jpg.jpg" alt="Artwork 5">
                 <div class="art-info">
                     <h3>Artwork Title Five</h3>
                     <p>Medium / Year</p>
@@ -138,7 +138,7 @@
             </div>
 
             <div class="art-item">
-                <img src="art6.jpg.jpg" alt="Artwork 6">
+                <img src="art 6.jpg.jpg" alt="Artwork 6">
                 <div class="art-info">
                     <h3>Artwork Title Six</h3>
                     <p>Medium / Year</p>
