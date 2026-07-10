@@ -90,66 +90,63 @@
 </head>
 <body>
 
-    <header>
-        <h1>Artist Portfolio</h1>
-        <p>A collection of visual works</p>
-    </header>
+   <header>
+    <h1>Artist Portfolio</h1>
+    <p>A collection of visual works</p>
+</header>
 
-    <main>
-        <section class="gallery">
-            <div class="art-item">
-                <img src="art 1.jpg.jpg" alt="Artwork 1">
-                <div class="art-info">
-                    <h3>Artwork Title One</h3>
-                    <p>Medium / Year</p>
-                </div>
+<main>
+    <section class="gallery">
+        <div class="art-item">
+            <img src="art 1.jpg" alt="Artwork 1">
+            <div class="art-info">
+                <h3>Artwork Title One</h3>
+                <p>Medium / Year</p>
             </div>
+        </div>
 
-            <div class="art-item">
-                <img src="art 2.jpg.jpg" alt="Artwork 2">
-                <div class="art-info">
-                    <h3>Artwork Title Two</h3>
-                    <p>Medium / Year</p>
-                </div>
+        <div class="art-item">
+            <img src="art 2.jpg" alt="Artwork 2">
+            <div class="art-info">
+                <h3>Artwork Title Two</h3>
+                <p>Medium / Year</p>
             </div>
+        </div>
 
-            <div class="art-item">
-                <img src="art 3.jpg.jpg" alt="Artwork 3">
-                <div class="art-info">
-                    <h3>Artwork Title Three</h3>
-                    <p>Medium / Year</p>
-                </div>
+        <div class="art-item">
+            <img src="art 3.jpg" alt="Artwork 3">
+            <div class="art-info">
+                <h3>Artwork Title Three</h3>
+                <p>Medium / Year</p>
             </div>
+        </div>
 
-            <div class="art-item">
-                <img src="art 4.jpg.jpg" alt="Artwork 4">
-                <div class="art-info">
-                    <h3>Artwork Title Four</h3>
-                    <p>Medium / Year</p>
-                </div>
+        <div class="art-item">
+            <img src="art 4.jpg" alt="Artwork 4">
+            <div class="art-info">
+                <h3>Artwork Title Four</h3>
+                <p>Medium / Year</p>
             </div>
+        </div>
 
-            <div class="art-item">
-                <img src="art 5.jpg.jpg" alt="Artwork 5">
-                <div class="art-info">
-                    <h3>Artwork Title Five</h3>
-                    <p>Medium / Year</p>
-                </div>
+        <div class="art-item">
+            <img src="art 5.jpg" alt="Artwork 5">
+            <div class="art-info">
+                <h3>Artwork Title Five</h3>
+                <p>Medium / Year</p>
             </div>
+        </div>
 
-            <div class="art-item">
-                <img src="art 6.jpg.jpg" alt="Artwork 6">
-                <div class="art-info">
-                    <h3>Artwork Title Six</h3>
-                    <p>Medium / Year</p>
-                </div>
+        <div class="art-item">
+            <img src="art 6.jpg" alt="Artwork 6">
+            <div class="art-info">
+                <h3>Artwork Title Six</h3>
+                <p>Medium / Year</p>
             </div>
-        </section>
-    </main>
+        </div>
+    </section>
+</main>
 
-    <footer>
-        <p>&copy; Anonymous Artist. All rights reserved.</p>
-    </footer>
-
-</body>
-</html>
+<footer>
+    <p>&copy; Anonymous Artist. All rights reserved.</p>
+</footer>
