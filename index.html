@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Art Portfolio</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            text-align: center;
+            padding: 40px;
+        }
+
+        header h1 {
+            color: white;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .art-item {
+            background: #1e1e1e;
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        .art-item img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+        }
+
+        .art-info {
+            padding: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: gray;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Artist Portfolio</h1>
+    <p>A collection of visual works</p>
+</header>
+
+<main>
+    <div class="gallery">
+
+        <div class="art-item">
+            <img src="art1.jpg">
+            <div class="art-info">
+                <h3>Artwork 1</h3>
+            </div>
+        </div>
+
+        <div class="art-item">
+            <img src="art2.jpg">
+            <div class="art-info">
+                <h3>Artwork 2</h3>
+            </div>
+        </div>
+
+        <div class="art-item">
+            <img src="art3.jpg">
+            <div class="art-info">
+                <h3>Artwork 3</h3>
+            </div>
+        </div>
+
+        <div class="art-item">
+            <img src="art4.jpg">
+            <div class="art-info">
+                <h3>Artwork 4</h3>
+            </div>
+        </div>
+
+        <div class="art-item">
+            <img src="art5.jpg">
+            <div class="art-info">
+                <h3>Artwork 5</h3>
+            </div>
+        </div>
+
+        <div class="art-item">
+            <img src="art6.jpg">
+            <div class="art-info">
+                <h3>Artwork 6</h3>
+            </div>
+        </div>
+
+    </div>
+</main>
+
+<footer>
+    <p>© Your Name</p>
+</footer>
+
+</body>
+</html>
